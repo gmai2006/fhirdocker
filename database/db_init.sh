@@ -1,0 +1,1 @@
+run mysql -u root -p fhri < $1 to import the data file
