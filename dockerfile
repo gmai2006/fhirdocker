@@ -3,7 +3,7 @@ MAINTAINER Manuel de la Peña <manuel.delapenya@liferay.com>
 
 ENV DEBIAN_FRONTEND noninteractive
 ENV TOMCAT_MAJOR_VERSION=8
-ENV TOMCAT_VERSION=8.5.29
+ENV TOMCAT_VERSION=8.5.30
 ENV TOMCAT_HOME=/opt/apache-tomcat-$TOMCAT_VERSION
 
 # Install mysql-server and tomcat 8
